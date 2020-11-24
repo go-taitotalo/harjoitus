@@ -1,0 +1,5 @@
+1.- Read client's requirements.
+2.- Organize project's developing teams.
+3.- Add coders to the teams.
+4.- Teams developing time.
+5.- Join code and test.
